@@ -19,4 +19,4 @@
 Пример запроса http://localhost:8080/api/putMoney?id=1&money=123546
 
 Структура базы данных:
-![](D:\Рабочий%20стол\db.PNG)
+![](https://drive.google.com/file/d/1UrD4ZfU0MCFtlV2O_TAXXnshWxl7Is6n/view?usp=sharing)
