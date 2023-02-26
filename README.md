@@ -19,4 +19,5 @@
 Пример запроса http://localhost:8080/api/putMoney
 
 Структура базы данных:
+
 ![](https://github.com/adapterig/SkillFactoryFproject/blob/master/db.PNG?raw=true)
